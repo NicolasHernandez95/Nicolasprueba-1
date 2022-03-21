@@ -1,0 +1,14 @@
+[   
+    {
+    "titulo": "suma",
+    "estado": "terminada"
+    },
+    {
+        "titulo": "resta",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "multiplicacion",
+        "estado": "progreso"
+    }
+]
